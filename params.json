@@ -22,6 +22,9 @@
                     "slow": "slow"},
     "exclude_subjects": [],
     "exclude_trial_col": "exclude_trial",
+    "eogs": ["EXG3", "EXG4", "EXG5", "EXG6"],
+    "ecgs": [],
+    "emgs": ["EXG7", "EXG8"],
     "fig": "eps",
     "seed": 26
 }
